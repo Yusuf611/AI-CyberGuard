@@ -1,0 +1,13 @@
+﻿streamlit
+pandas
+numpy
+scikit-learn
+joblib
+tldextract
+lime
+plotly
+tweepy
+python-dotenv
+sqlalchemy
+matplotlib
+shap

@@ -1,0 +1,16 @@
+# Python cache & virtual env
+__pycache__/
+*.pyc
+venv/
+venvScriptsactivate/
+# Model & data files
+
+
+
+
+# Secrets
+.env
+
+# Logs & temporary
+*.log
+*.tmp
